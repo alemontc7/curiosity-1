@@ -5333,5 +5333,3539 @@
     "delta": {
       "new_valid_votes": 0
     }
+  },
+  {
+    "timestamp": "2026-03-26T09:27:38.992812",
+    "server_fecha": "26/03/2026 09:27:34",
+    "tabla_votos_válidos": {
+      "valor": 885082,
+      "porcentaje": 86.34
+    },
+    "tabla_votos_blancos": {
+      "valor": 62766,
+      "porcentaje": 6.12
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 77270,
+      "porcentaje": 7.54
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1025118,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1176837,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5190,
+      "porcentaje": 83.79
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5190,
+    "actas_habilitadas": 6194,
+    "pct_actas": 83.79,
+    "votos_validos": 885082,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 29733,
+        "pct": 3.36
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 40563,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 37556,
+        "pct": 4.24
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 127232,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17002,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 42737,
+        "pct": 4.83
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12056,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 15702,
+        "pct": 1.77
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 349748,
+        "pct": 39.52
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 212753,
+        "pct": 24.04
+      }
+    },
+    "delta": {
+      "new_valid_votes": 5816,
+      "new_actas": 36,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 183,
+        "marginal_pct": 3.1465
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 266,
+        "marginal_pct": 4.5736
+      },
+      "LIBRE": {
+        "new_votes": 209,
+        "marginal_pct": 3.5935
+      },
+      "MTS": {
+        "new_votes": 700,
+        "marginal_pct": 12.0358
+      },
+      "UNIDOS-": {
+        "new_votes": 89,
+        "marginal_pct": 1.5303
+      },
+      "NGP": {
+        "new_votes": 272,
+        "marginal_pct": 4.6768
+      },
+      "PDC": {
+        "new_votes": 68,
+        "marginal_pct": 1.1692
+      },
+      "FRI": {
+        "new_votes": 112,
+        "marginal_pct": 1.9257
+      },
+      "A-UPP": {
+        "new_votes": 2553,
+        "marginal_pct": 43.8961
+      },
+      "APB-SUMATE": {
+        "new_votes": 1364,
+        "marginal_pct": 23.4525
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T09:32:40.826383",
+    "server_fecha": "26/03/2026 09:32:34",
+    "tabla_votos_válidos": {
+      "valor": 890553,
+      "porcentaje": 86.33
+    },
+    "tabla_votos_blancos": {
+      "valor": 63286,
+      "porcentaje": 6.13
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 77788,
+      "porcentaje": 7.54
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1031627,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1184271,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5223,
+      "porcentaje": 84.32
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5223,
+    "actas_habilitadas": 6194,
+    "pct_actas": 84.32,
+    "votos_validos": 890553,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 29965,
+        "pct": 3.36
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 40805,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 37731,
+        "pct": 4.24
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 127918,
+        "pct": 14.36
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17122,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 42990,
+        "pct": 4.83
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12133,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 15808,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 352227,
+        "pct": 39.55
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 213854,
+        "pct": 24.01
+      }
+    },
+    "delta": {
+      "new_valid_votes": 5471,
+      "new_actas": 33,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 232,
+        "marginal_pct": 4.2405
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 242,
+        "marginal_pct": 4.4233
+      },
+      "LIBRE": {
+        "new_votes": 175,
+        "marginal_pct": 3.1987
+      },
+      "MTS": {
+        "new_votes": 686,
+        "marginal_pct": 12.5388
+      },
+      "UNIDOS-": {
+        "new_votes": 120,
+        "marginal_pct": 2.1934
+      },
+      "NGP": {
+        "new_votes": 253,
+        "marginal_pct": 4.6244
+      },
+      "PDC": {
+        "new_votes": 77,
+        "marginal_pct": 1.4074
+      },
+      "FRI": {
+        "new_votes": 106,
+        "marginal_pct": 1.9375
+      },
+      "A-UPP": {
+        "new_votes": 2479,
+        "marginal_pct": 45.3116
+      },
+      "APB-SUMATE": {
+        "new_votes": 1101,
+        "marginal_pct": 20.1243
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T09:37:42.678085",
+    "server_fecha": "26/03/2026 09:37:38",
+    "tabla_votos_válidos": {
+      "valor": 896441,
+      "porcentaje": 86.33
+    },
+    "tabla_votos_blancos": {
+      "valor": 63710,
+      "porcentaje": 6.14
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 78297,
+      "porcentaje": 7.54
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1038448,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1192177,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5257,
+      "porcentaje": 84.87
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5257,
+    "actas_habilitadas": 6194,
+    "pct_actas": 84.87,
+    "votos_validos": 896441,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30186,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41057,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 37944,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 128805,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17250,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 43336,
+        "pct": 4.83
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12229,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 15924,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 354687,
+        "pct": 39.57
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 215023,
+        "pct": 23.99
+      }
+    },
+    "delta": {
+      "new_valid_votes": 5888,
+      "new_actas": 34,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 221,
+        "marginal_pct": 3.7534
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 252,
+        "marginal_pct": 4.2799
+      },
+      "LIBRE": {
+        "new_votes": 213,
+        "marginal_pct": 3.6175
+      },
+      "MTS": {
+        "new_votes": 887,
+        "marginal_pct": 15.0645
+      },
+      "UNIDOS-": {
+        "new_votes": 128,
+        "marginal_pct": 2.1739
+      },
+      "NGP": {
+        "new_votes": 346,
+        "marginal_pct": 5.8764
+      },
+      "PDC": {
+        "new_votes": 96,
+        "marginal_pct": 1.6304
+      },
+      "FRI": {
+        "new_votes": 116,
+        "marginal_pct": 1.9701
+      },
+      "A-UPP": {
+        "new_votes": 2460,
+        "marginal_pct": 41.7799
+      },
+      "APB-SUMATE": {
+        "new_votes": 1169,
+        "marginal_pct": 19.8539
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T09:42:44.628985",
+    "server_fecha": "26/03/2026 09:42:42",
+    "tabla_votos_válidos": {
+      "valor": 896593,
+      "porcentaje": 86.32
+    },
+    "tabla_votos_blancos": {
+      "valor": 63745,
+      "porcentaje": 6.14
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 78315,
+      "porcentaje": 7.54
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1038653,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1192417,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5258,
+      "porcentaje": 84.89
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5258,
+    "actas_habilitadas": 6194,
+    "pct_actas": 84.89,
+    "votos_validos": 896593,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30191,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41061,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 37950,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 128823,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17251,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 43352,
+        "pct": 4.84
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12229,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 15929,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 354780,
+        "pct": 39.57
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 215027,
+        "pct": 23.98
+      }
+    },
+    "delta": {
+      "new_valid_votes": 152,
+      "new_actas": 1,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 5,
+        "marginal_pct": 3.2895
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 4,
+        "marginal_pct": 2.6316
+      },
+      "LIBRE": {
+        "new_votes": 6,
+        "marginal_pct": 3.9474
+      },
+      "MTS": {
+        "new_votes": 18,
+        "marginal_pct": 11.8421
+      },
+      "UNIDOS-": {
+        "new_votes": 1,
+        "marginal_pct": 0.6579
+      },
+      "NGP": {
+        "new_votes": 16,
+        "marginal_pct": 10.5263
+      },
+      "PDC": {
+        "new_votes": 0,
+        "marginal_pct": 0.0
+      },
+      "FRI": {
+        "new_votes": 5,
+        "marginal_pct": 3.2895
+      },
+      "A-UPP": {
+        "new_votes": 93,
+        "marginal_pct": 61.1842
+      },
+      "APB-SUMATE": {
+        "new_votes": 4,
+        "marginal_pct": 2.6316
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T09:47:45.571238",
+    "server_fecha": "26/03/2026 09:47:37",
+    "tabla_votos_válidos": {
+      "valor": 896593,
+      "porcentaje": 86.32
+    },
+    "tabla_votos_blancos": {
+      "valor": 63745,
+      "porcentaje": 6.14
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 78315,
+      "porcentaje": 7.54
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1038653,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1192417,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5258,
+      "porcentaje": 84.89
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5258,
+    "actas_habilitadas": 6194,
+    "pct_actas": 84.89,
+    "votos_validos": 896593,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30191,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41061,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 37950,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 128823,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17251,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 43352,
+        "pct": 4.84
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12229,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 15929,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 354780,
+        "pct": 39.57
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 215027,
+        "pct": 23.98
+      }
+    },
+    "delta": {
+      "new_valid_votes": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-26T09:52:46.392890",
+    "server_fecha": "26/03/2026 09:52:41",
+    "tabla_votos_válidos": {
+      "valor": 900819,
+      "porcentaje": 86.32
+    },
+    "tabla_votos_blancos": {
+      "valor": 64028,
+      "porcentaje": 6.14
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 78749,
+      "porcentaje": 7.55
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1043596,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1198249,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5285,
+      "porcentaje": 85.32
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5285,
+    "actas_habilitadas": 6194,
+    "pct_actas": 85.32,
+    "votos_validos": 900819,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30310,
+        "pct": 3.36
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41286,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 38137,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 129488,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17326,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 43561,
+        "pct": 4.84
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12303,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16003,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 356309,
+        "pct": 39.55
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 216096,
+        "pct": 23.99
+      }
+    },
+    "delta": {
+      "new_valid_votes": 4226,
+      "new_actas": 27,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 119,
+        "marginal_pct": 2.8159
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 225,
+        "marginal_pct": 5.3242
+      },
+      "LIBRE": {
+        "new_votes": 187,
+        "marginal_pct": 4.425
+      },
+      "MTS": {
+        "new_votes": 665,
+        "marginal_pct": 15.7359
+      },
+      "UNIDOS-": {
+        "new_votes": 75,
+        "marginal_pct": 1.7747
+      },
+      "NGP": {
+        "new_votes": 209,
+        "marginal_pct": 4.9456
+      },
+      "PDC": {
+        "new_votes": 74,
+        "marginal_pct": 1.7511
+      },
+      "FRI": {
+        "new_votes": 74,
+        "marginal_pct": 1.7511
+      },
+      "A-UPP": {
+        "new_votes": 1529,
+        "marginal_pct": 36.1808
+      },
+      "APB-SUMATE": {
+        "new_votes": 1069,
+        "marginal_pct": 25.2958
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T09:57:47.257744",
+    "server_fecha": "26/03/2026 09:57:40",
+    "tabla_votos_válidos": {
+      "valor": 906935,
+      "porcentaje": 86.31
+    },
+    "tabla_votos_blancos": {
+      "valor": 64563,
+      "porcentaje": 6.14
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 79346,
+      "porcentaje": 7.55
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1050844,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1206637,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5321,
+      "porcentaje": 85.91
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5321,
+    "actas_habilitadas": 6194,
+    "pct_actas": 85.91,
+    "votos_validos": 906935,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30507,
+        "pct": 3.36
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41564,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 38346,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 130353,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17458,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 43986,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12395,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16095,
+        "pct": 1.77
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 358943,
+        "pct": 39.58
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 217288,
+        "pct": 23.96
+      }
+    },
+    "delta": {
+      "new_valid_votes": 6116,
+      "new_actas": 36,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 197,
+        "marginal_pct": 3.2211
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 278,
+        "marginal_pct": 4.5455
+      },
+      "LIBRE": {
+        "new_votes": 209,
+        "marginal_pct": 3.4173
+      },
+      "MTS": {
+        "new_votes": 865,
+        "marginal_pct": 14.1432
+      },
+      "UNIDOS-": {
+        "new_votes": 132,
+        "marginal_pct": 2.1583
+      },
+      "NGP": {
+        "new_votes": 425,
+        "marginal_pct": 6.949
+      },
+      "PDC": {
+        "new_votes": 92,
+        "marginal_pct": 1.5043
+      },
+      "FRI": {
+        "new_votes": 92,
+        "marginal_pct": 1.5043
+      },
+      "A-UPP": {
+        "new_votes": 2634,
+        "marginal_pct": 43.0674
+      },
+      "APB-SUMATE": {
+        "new_votes": 1192,
+        "marginal_pct": 19.4899
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:02:49.071172",
+    "server_fecha": "26/03/2026 10:02:43",
+    "tabla_votos_válidos": {
+      "valor": 910081,
+      "porcentaje": 86.3
+    },
+    "tabla_votos_blancos": {
+      "valor": 64820,
+      "porcentaje": 6.15
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 79639,
+      "porcentaje": 7.55
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1054540,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1210903,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5340,
+      "porcentaje": 86.21
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5340,
+    "actas_habilitadas": 6194,
+    "pct_actas": 86.21,
+    "votos_validos": 910081,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30645,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41651,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 38427,
+        "pct": 4.22
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 130747,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17518,
+        "pct": 1.92
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 44138,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12433,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16165,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 360567,
+        "pct": 39.62
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 217790,
+        "pct": 23.93
+      }
+    },
+    "delta": {
+      "new_valid_votes": 3146,
+      "new_actas": 19,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 138,
+        "marginal_pct": 4.3865
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 87,
+        "marginal_pct": 2.7654
+      },
+      "LIBRE": {
+        "new_votes": 81,
+        "marginal_pct": 2.5747
+      },
+      "MTS": {
+        "new_votes": 394,
+        "marginal_pct": 12.5238
+      },
+      "UNIDOS-": {
+        "new_votes": 60,
+        "marginal_pct": 1.9072
+      },
+      "NGP": {
+        "new_votes": 152,
+        "marginal_pct": 4.8315
+      },
+      "PDC": {
+        "new_votes": 38,
+        "marginal_pct": 1.2079
+      },
+      "FRI": {
+        "new_votes": 70,
+        "marginal_pct": 2.225
+      },
+      "A-UPP": {
+        "new_votes": 1624,
+        "marginal_pct": 51.6211
+      },
+      "APB-SUMATE": {
+        "new_votes": 502,
+        "marginal_pct": 15.9568
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:07:49.976402",
+    "server_fecha": "26/03/2026 10:07:46",
+    "tabla_votos_válidos": {
+      "valor": 915039,
+      "porcentaje": 86.3
+    },
+    "tabla_votos_blancos": {
+      "valor": 65207,
+      "porcentaje": 6.15
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 80102,
+      "porcentaje": 7.55
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1060348,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1217745,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5371,
+      "porcentaje": 86.71
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5371,
+    "actas_habilitadas": 6194,
+    "pct_actas": 86.71,
+    "votos_validos": 915039,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 30818,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 41898,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 38638,
+        "pct": 4.22
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 131468,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17624,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 44373,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12512,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16288,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 362361,
+        "pct": 39.6
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 219059,
+        "pct": 23.94
+      }
+    },
+    "delta": {
+      "new_valid_votes": 4958,
+      "new_actas": 31,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 173,
+        "marginal_pct": 3.4893
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 247,
+        "marginal_pct": 4.9818
+      },
+      "LIBRE": {
+        "new_votes": 211,
+        "marginal_pct": 4.2557
+      },
+      "MTS": {
+        "new_votes": 721,
+        "marginal_pct": 14.5422
+      },
+      "UNIDOS-": {
+        "new_votes": 106,
+        "marginal_pct": 2.138
+      },
+      "NGP": {
+        "new_votes": 235,
+        "marginal_pct": 4.7398
+      },
+      "PDC": {
+        "new_votes": 79,
+        "marginal_pct": 1.5934
+      },
+      "FRI": {
+        "new_votes": 123,
+        "marginal_pct": 2.4808
+      },
+      "A-UPP": {
+        "new_votes": 1794,
+        "marginal_pct": 36.1839
+      },
+      "APB-SUMATE": {
+        "new_votes": 1269,
+        "marginal_pct": 25.595
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:12:50.878453",
+    "server_fecha": "26/03/2026 10:12:43",
+    "tabla_votos_válidos": {
+      "valor": 919793,
+      "porcentaje": 86.3
+    },
+    "tabla_votos_blancos": {
+      "valor": 65535,
+      "porcentaje": 6.15
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 80542,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1065870,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1224010,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5398,
+      "porcentaje": 87.15
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5398,
+    "actas_habilitadas": 6194,
+    "pct_actas": 87.15,
+    "votos_validos": 919793,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31013,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42107,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 38867,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 132234,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17717,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 44662,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12585,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16380,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 363916,
+        "pct": 39.56
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 220312,
+        "pct": 23.95
+      }
+    },
+    "delta": {
+      "new_valid_votes": 4754,
+      "new_actas": 27,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 195,
+        "marginal_pct": 4.1018
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 209,
+        "marginal_pct": 4.3963
+      },
+      "LIBRE": {
+        "new_votes": 229,
+        "marginal_pct": 4.817
+      },
+      "MTS": {
+        "new_votes": 766,
+        "marginal_pct": 16.1127
+      },
+      "UNIDOS-": {
+        "new_votes": 93,
+        "marginal_pct": 1.9562
+      },
+      "NGP": {
+        "new_votes": 289,
+        "marginal_pct": 6.0791
+      },
+      "PDC": {
+        "new_votes": 73,
+        "marginal_pct": 1.5355
+      },
+      "FRI": {
+        "new_votes": 92,
+        "marginal_pct": 1.9352
+      },
+      "A-UPP": {
+        "new_votes": 1555,
+        "marginal_pct": 32.7093
+      },
+      "APB-SUMATE": {
+        "new_votes": 1253,
+        "marginal_pct": 26.3568
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:17:52.477017",
+    "server_fecha": "26/03/2026 10:17:45",
+    "tabla_votos_válidos": {
+      "valor": 920781,
+      "porcentaje": 86.3
+    },
+    "tabla_votos_blancos": {
+      "valor": 65588,
+      "porcentaje": 6.15
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 80603,
+      "porcentaje": 7.55
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1066972,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1225241,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5404,
+      "porcentaje": 87.25
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5404,
+    "actas_habilitadas": 6194,
+    "pct_actas": 87.25,
+    "votos_validos": 920781,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31044,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42147,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 38911,
+        "pct": 4.23
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 132439,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17748,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 44705,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12599,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16402,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 364136,
+        "pct": 39.55
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 220650,
+        "pct": 23.96
+      }
+    },
+    "delta": {
+      "new_valid_votes": 988,
+      "new_actas": 6,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 31,
+        "marginal_pct": 3.1377
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 40,
+        "marginal_pct": 4.0486
+      },
+      "LIBRE": {
+        "new_votes": 44,
+        "marginal_pct": 4.4534
+      },
+      "MTS": {
+        "new_votes": 205,
+        "marginal_pct": 20.749
+      },
+      "UNIDOS-": {
+        "new_votes": 31,
+        "marginal_pct": 3.1377
+      },
+      "NGP": {
+        "new_votes": 43,
+        "marginal_pct": 4.3522
+      },
+      "PDC": {
+        "new_votes": 14,
+        "marginal_pct": 1.417
+      },
+      "FRI": {
+        "new_votes": 22,
+        "marginal_pct": 2.2267
+      },
+      "A-UPP": {
+        "new_votes": 220,
+        "marginal_pct": 22.2672
+      },
+      "APB-SUMATE": {
+        "new_votes": 338,
+        "marginal_pct": 34.2105
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:22:53.338944",
+    "server_fecha": "26/03/2026 10:22:47",
+    "tabla_votos_válidos": {
+      "valor": 927114,
+      "porcentaje": 86.29
+    },
+    "tabla_votos_blancos": {
+      "valor": 66129,
+      "porcentaje": 6.15
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 81175,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1074418,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1233836,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5440,
+      "porcentaje": 87.83
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5440,
+    "actas_habilitadas": 6194,
+    "pct_actas": 87.83,
+    "votos_validos": 927114,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31261,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42444,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39115,
+        "pct": 4.22
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 133351,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17873,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45004,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12682,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16495,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 367186,
+        "pct": 39.61
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 221703,
+        "pct": 23.91
+      }
+    },
+    "delta": {
+      "new_valid_votes": 6333,
+      "new_actas": 36,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 217,
+        "marginal_pct": 3.4265
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 297,
+        "marginal_pct": 4.6897
+      },
+      "LIBRE": {
+        "new_votes": 204,
+        "marginal_pct": 3.2212
+      },
+      "MTS": {
+        "new_votes": 912,
+        "marginal_pct": 14.4008
+      },
+      "UNIDOS-": {
+        "new_votes": 125,
+        "marginal_pct": 1.9738
+      },
+      "NGP": {
+        "new_votes": 299,
+        "marginal_pct": 4.7213
+      },
+      "PDC": {
+        "new_votes": 83,
+        "marginal_pct": 1.3106
+      },
+      "FRI": {
+        "new_votes": 93,
+        "marginal_pct": 1.4685
+      },
+      "A-UPP": {
+        "new_votes": 3050,
+        "marginal_pct": 48.1604
+      },
+      "APB-SUMATE": {
+        "new_votes": 1053,
+        "marginal_pct": 16.6272
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:27:54.217287",
+    "server_fecha": "26/03/2026 10:27:48",
+    "tabla_votos_válidos": {
+      "valor": 929236,
+      "porcentaje": 86.28
+    },
+    "tabla_votos_blancos": {
+      "valor": 66346,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 81397,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1076979,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1236797,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5453,
+      "porcentaje": 88.04
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5453,
+    "actas_habilitadas": 6194,
+    "pct_actas": 88.04,
+    "votos_validos": 929236,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31325,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42539,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39168,
+        "pct": 4.22
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 133677,
+        "pct": 14.39
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17911,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45179,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12708,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16526,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 368122,
+        "pct": 39.62
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 222081,
+        "pct": 23.9
+      }
+    },
+    "delta": {
+      "new_valid_votes": 2122,
+      "new_actas": 13,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 64,
+        "marginal_pct": 3.016
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 95,
+        "marginal_pct": 4.4769
+      },
+      "LIBRE": {
+        "new_votes": 53,
+        "marginal_pct": 2.4976
+      },
+      "MTS": {
+        "new_votes": 326,
+        "marginal_pct": 15.3629
+      },
+      "UNIDOS-": {
+        "new_votes": 38,
+        "marginal_pct": 1.7908
+      },
+      "NGP": {
+        "new_votes": 175,
+        "marginal_pct": 8.2469
+      },
+      "PDC": {
+        "new_votes": 26,
+        "marginal_pct": 1.2253
+      },
+      "FRI": {
+        "new_votes": 31,
+        "marginal_pct": 1.4609
+      },
+      "A-UPP": {
+        "new_votes": 936,
+        "marginal_pct": 44.1093
+      },
+      "APB-SUMATE": {
+        "new_votes": 378,
+        "marginal_pct": 17.8134
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:32:56.060852",
+    "server_fecha": "26/03/2026 10:32:48",
+    "tabla_votos_válidos": {
+      "valor": 929236,
+      "porcentaje": 86.28
+    },
+    "tabla_votos_blancos": {
+      "valor": 66346,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 81397,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1076979,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1236797,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5453,
+      "porcentaje": 88.04
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5453,
+    "actas_habilitadas": 6194,
+    "pct_actas": 88.04,
+    "votos_validos": 929236,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31325,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42539,
+        "pct": 4.58
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39168,
+        "pct": 4.22
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 133677,
+        "pct": 14.39
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 17911,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45179,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12708,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16526,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 368122,
+        "pct": 39.62
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 222081,
+        "pct": 23.9
+      }
+    },
+    "delta": {
+      "new_valid_votes": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:37:57.725302",
+    "server_fecha": "26/03/2026 10:37:49",
+    "tabla_votos_válidos": {
+      "valor": 934063,
+      "porcentaje": 86.28
+    },
+    "tabla_votos_blancos": {
+      "valor": 66767,
+      "porcentaje": 6.17
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 81824,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1082654,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1243424,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5482,
+      "porcentaje": 88.51
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5482,
+    "actas_habilitadas": 6194,
+    "pct_actas": 88.51,
+    "votos_validos": 934063,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31450,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42718,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39316,
+        "pct": 4.21
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 134325,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18000,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45363,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12788,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16593,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 370568,
+        "pct": 39.67
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 222942,
+        "pct": 23.87
+      }
+    },
+    "delta": {
+      "new_valid_votes": 4827,
+      "new_actas": 29,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 125,
+        "marginal_pct": 2.5896
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 179,
+        "marginal_pct": 3.7083
+      },
+      "LIBRE": {
+        "new_votes": 148,
+        "marginal_pct": 3.0661
+      },
+      "MTS": {
+        "new_votes": 648,
+        "marginal_pct": 13.4245
+      },
+      "UNIDOS-": {
+        "new_votes": 89,
+        "marginal_pct": 1.8438
+      },
+      "NGP": {
+        "new_votes": 184,
+        "marginal_pct": 3.8119
+      },
+      "PDC": {
+        "new_votes": 80,
+        "marginal_pct": 1.6573
+      },
+      "FRI": {
+        "new_votes": 67,
+        "marginal_pct": 1.388
+      },
+      "A-UPP": {
+        "new_votes": 2446,
+        "marginal_pct": 50.6733
+      },
+      "APB-SUMATE": {
+        "new_votes": 861,
+        "marginal_pct": 17.8372
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:42:59.676370",
+    "server_fecha": "26/03/2026 10:42:52",
+    "tabla_votos_válidos": {
+      "valor": 935576,
+      "porcentaje": 86.28
+    },
+    "tabla_votos_blancos": {
+      "valor": 66853,
+      "porcentaje": 6.17
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 81944,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1084373,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1245446,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5491,
+      "porcentaje": 88.65
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5491,
+    "actas_habilitadas": 6194,
+    "pct_actas": 88.65,
+    "votos_validos": 935576,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31498,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42784,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39365,
+        "pct": 4.21
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 134513,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18020,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45415,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12811,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16609,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 371306,
+        "pct": 39.69
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 223255,
+        "pct": 23.86
+      }
+    },
+    "delta": {
+      "new_valid_votes": 1513,
+      "new_actas": 9,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 48,
+        "marginal_pct": 3.1725
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 66,
+        "marginal_pct": 4.3622
+      },
+      "LIBRE": {
+        "new_votes": 49,
+        "marginal_pct": 3.2386
+      },
+      "MTS": {
+        "new_votes": 188,
+        "marginal_pct": 12.4256
+      },
+      "UNIDOS-": {
+        "new_votes": 20,
+        "marginal_pct": 1.3219
+      },
+      "NGP": {
+        "new_votes": 52,
+        "marginal_pct": 3.4369
+      },
+      "PDC": {
+        "new_votes": 23,
+        "marginal_pct": 1.5202
+      },
+      "FRI": {
+        "new_votes": 16,
+        "marginal_pct": 1.0575
+      },
+      "A-UPP": {
+        "new_votes": 738,
+        "marginal_pct": 48.7773
+      },
+      "APB-SUMATE": {
+        "new_votes": 313,
+        "marginal_pct": 20.6874
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:48:01.498383",
+    "server_fecha": "26/03/2026 10:47:53",
+    "tabla_votos_válidos": {
+      "valor": 939484,
+      "porcentaje": 86.27
+    },
+    "tabla_votos_blancos": {
+      "valor": 67175,
+      "porcentaje": 6.17
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 82340,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1088999,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1250793,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5515,
+      "porcentaje": 89.04
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5515,
+    "actas_habilitadas": 6194,
+    "pct_actas": 89.04,
+    "votos_validos": 939484,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31697,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 42950,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39511,
+        "pct": 4.21
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 135064,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18132,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45579,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12857,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16683,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 373025,
+        "pct": 39.71
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 223986,
+        "pct": 23.84
+      }
+    },
+    "delta": {
+      "new_valid_votes": 3908,
+      "new_actas": 24,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 199,
+        "marginal_pct": 5.0921
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 166,
+        "marginal_pct": 4.2477
+      },
+      "LIBRE": {
+        "new_votes": 146,
+        "marginal_pct": 3.7359
+      },
+      "MTS": {
+        "new_votes": 551,
+        "marginal_pct": 14.0993
+      },
+      "UNIDOS-": {
+        "new_votes": 112,
+        "marginal_pct": 2.8659
+      },
+      "NGP": {
+        "new_votes": 164,
+        "marginal_pct": 4.1965
+      },
+      "PDC": {
+        "new_votes": 46,
+        "marginal_pct": 1.1771
+      },
+      "FRI": {
+        "new_votes": 74,
+        "marginal_pct": 1.8936
+      },
+      "A-UPP": {
+        "new_votes": 1719,
+        "marginal_pct": 43.9867
+      },
+      "APB-SUMATE": {
+        "new_votes": 731,
+        "marginal_pct": 18.7052
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:53:03.463507",
+    "server_fecha": "26/03/2026 10:52:59",
+    "tabla_votos_válidos": {
+      "valor": 943751,
+      "porcentaje": 86.27
+    },
+    "tabla_votos_blancos": {
+      "valor": 67416,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 82722,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1093889,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1256451,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5540,
+      "porcentaje": 89.44
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5540,
+    "actas_habilitadas": 6194,
+    "pct_actas": 89.44,
+    "votos_validos": 943751,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31838,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43140,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39689,
+        "pct": 4.21
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 135680,
+        "pct": 14.38
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18202,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45744,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12888,
+        "pct": 1.37
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16774,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 374758,
+        "pct": 39.71
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 225038,
+        "pct": 23.85
+      }
+    },
+    "delta": {
+      "new_valid_votes": 4267,
+      "new_actas": 25,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 141,
+        "marginal_pct": 3.3044
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 190,
+        "marginal_pct": 4.4528
+      },
+      "LIBRE": {
+        "new_votes": 178,
+        "marginal_pct": 4.1715
+      },
+      "MTS": {
+        "new_votes": 616,
+        "marginal_pct": 14.4364
+      },
+      "UNIDOS-": {
+        "new_votes": 70,
+        "marginal_pct": 1.6405
+      },
+      "NGP": {
+        "new_votes": 165,
+        "marginal_pct": 3.8669
+      },
+      "PDC": {
+        "new_votes": 31,
+        "marginal_pct": 0.7265
+      },
+      "FRI": {
+        "new_votes": 91,
+        "marginal_pct": 2.1326
+      },
+      "A-UPP": {
+        "new_votes": 1733,
+        "marginal_pct": 40.614
+      },
+      "APB-SUMATE": {
+        "new_votes": 1052,
+        "marginal_pct": 24.6543
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T10:58:05.213189",
+    "server_fecha": "26/03/2026 10:57:59",
+    "tabla_votos_válidos": {
+      "valor": 946758,
+      "porcentaje": 86.27
+    },
+    "tabla_votos_blancos": {
+      "valor": 67629,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 82994,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1097381,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1260456,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5557,
+      "porcentaje": 89.72
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5557,
+    "actas_habilitadas": 6194,
+    "pct_actas": 89.72,
+    "votos_validos": 946758,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31918,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43229,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39784,
+        "pct": 4.2
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 136038,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18242,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45853,
+        "pct": 4.84
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12921,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16813,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 376353,
+        "pct": 39.75
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 225607,
+        "pct": 23.83
+      }
+    },
+    "delta": {
+      "new_valid_votes": 3007,
+      "new_actas": 17,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 80,
+        "marginal_pct": 2.6605
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 89,
+        "marginal_pct": 2.9598
+      },
+      "LIBRE": {
+        "new_votes": 95,
+        "marginal_pct": 3.1593
+      },
+      "MTS": {
+        "new_votes": 358,
+        "marginal_pct": 11.9056
+      },
+      "UNIDOS-": {
+        "new_votes": 40,
+        "marginal_pct": 1.3302
+      },
+      "NGP": {
+        "new_votes": 109,
+        "marginal_pct": 3.6249
+      },
+      "PDC": {
+        "new_votes": 33,
+        "marginal_pct": 1.0974
+      },
+      "FRI": {
+        "new_votes": 39,
+        "marginal_pct": 1.297
+      },
+      "A-UPP": {
+        "new_votes": 1595,
+        "marginal_pct": 53.0429
+      },
+      "APB-SUMATE": {
+        "new_votes": 569,
+        "marginal_pct": 18.9225
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:03:06.936851",
+    "server_fecha": "26/03/2026 11:02:59",
+    "tabla_votos_válidos": {
+      "valor": 946758,
+      "porcentaje": 86.27
+    },
+    "tabla_votos_blancos": {
+      "valor": 67629,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 82994,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1097381,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1260456,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5557,
+      "porcentaje": 89.72
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5557,
+    "actas_habilitadas": 6194,
+    "pct_actas": 89.72,
+    "votos_validos": 946758,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31918,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43229,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39784,
+        "pct": 4.2
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 136038,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18242,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45853,
+        "pct": 4.84
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12921,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16813,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 376353,
+        "pct": 39.75
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 225607,
+        "pct": 23.83
+      }
+    },
+    "delta": {
+      "new_valid_votes": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:08:08.997609",
+    "server_fecha": "26/03/2026 11:08:00",
+    "tabla_votos_válidos": {
+      "valor": 946758,
+      "porcentaje": 86.27
+    },
+    "tabla_votos_blancos": {
+      "valor": 67629,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 82994,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1097381,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1260456,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5557,
+      "porcentaje": 89.72
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5557,
+    "actas_habilitadas": 6194,
+    "pct_actas": 89.72,
+    "votos_validos": 946758,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31918,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43229,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39784,
+        "pct": 4.2
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 136038,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18242,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45853,
+        "pct": 4.84
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12921,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16813,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 376353,
+        "pct": 39.75
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 225607,
+        "pct": 23.83
+      }
+    },
+    "delta": {
+      "new_valid_votes": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:31:37.339425",
+    "server_fecha": "26/03/2026 11:31:30",
+    "tabla_votos_válidos": {
+      "valor": 948047,
+      "porcentaje": 86.27
+    },
+    "tabla_votos_blancos": {
+      "valor": 67722,
+      "porcentaje": 6.16
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 83098,
+      "porcentaje": 7.56
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1098867,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1262236,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5565,
+      "porcentaje": 89.85
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5565,
+    "actas_habilitadas": 6194,
+    "pct_actas": 89.85,
+    "votos_validos": 948047,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 31958,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43294,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39833,
+        "pct": 4.2
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 136194,
+        "pct": 14.37
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18266,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 45947,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12931,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16846,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 376912,
+        "pct": 39.76
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 225866,
+        "pct": 23.82
+      }
+    },
+    "delta": {
+      "new_valid_votes": 1289,
+      "new_actas": 8,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 40,
+        "marginal_pct": 3.1032
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 65,
+        "marginal_pct": 5.0427
+      },
+      "LIBRE": {
+        "new_votes": 49,
+        "marginal_pct": 3.8014
+      },
+      "MTS": {
+        "new_votes": 156,
+        "marginal_pct": 12.1024
+      },
+      "UNIDOS-": {
+        "new_votes": 24,
+        "marginal_pct": 1.8619
+      },
+      "NGP": {
+        "new_votes": 94,
+        "marginal_pct": 7.2925
+      },
+      "PDC": {
+        "new_votes": 10,
+        "marginal_pct": 0.7758
+      },
+      "FRI": {
+        "new_votes": 33,
+        "marginal_pct": 2.5601
+      },
+      "A-UPP": {
+        "new_votes": 559,
+        "marginal_pct": 43.367
+      },
+      "APB-SUMATE": {
+        "new_votes": 259,
+        "marginal_pct": 20.0931
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:36:38.968643",
+    "server_fecha": "26/03/2026 11:36:34",
+    "tabla_votos_válidos": {
+      "valor": 951419,
+      "porcentaje": 86.26
+    },
+    "tabla_votos_blancos": {
+      "valor": 68051,
+      "porcentaje": 6.17
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 83435,
+      "porcentaje": 7.57
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1102905,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1266959,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5585,
+      "porcentaje": 90.17
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5585,
+    "actas_habilitadas": 6194,
+    "pct_actas": 90.17,
+    "votos_validos": 951419,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 32100,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43438,
+        "pct": 4.57
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 39930,
+        "pct": 4.2
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 136596,
+        "pct": 14.36
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18334,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 46126,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 12967,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16891,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 378741,
+        "pct": 39.81
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 226296,
+        "pct": 23.79
+      }
+    },
+    "delta": {
+      "new_valid_votes": 3372,
+      "new_actas": 20,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 142,
+        "marginal_pct": 4.2112
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 144,
+        "marginal_pct": 4.2705
+      },
+      "LIBRE": {
+        "new_votes": 97,
+        "marginal_pct": 2.8766
+      },
+      "MTS": {
+        "new_votes": 402,
+        "marginal_pct": 11.9217
+      },
+      "UNIDOS-": {
+        "new_votes": 68,
+        "marginal_pct": 2.0166
+      },
+      "NGP": {
+        "new_votes": 179,
+        "marginal_pct": 5.3084
+      },
+      "PDC": {
+        "new_votes": 36,
+        "marginal_pct": 1.0676
+      },
+      "FRI": {
+        "new_votes": 45,
+        "marginal_pct": 1.3345
+      },
+      "A-UPP": {
+        "new_votes": 1829,
+        "marginal_pct": 54.2408
+      },
+      "APB-SUMATE": {
+        "new_votes": 430,
+        "marginal_pct": 12.7521
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:41:40.665042",
+    "server_fecha": "26/03/2026 11:41:33",
+    "tabla_votos_válidos": {
+      "valor": 954766,
+      "porcentaje": 86.26
+    },
+    "tabla_votos_blancos": {
+      "valor": 68311,
+      "porcentaje": 6.17
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 83767,
+      "porcentaje": 7.57
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1106844,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1271539,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5606,
+      "porcentaje": 90.51
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5606,
+    "actas_habilitadas": 6194,
+    "pct_actas": 90.51,
+    "votos_validos": 954766,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 32187,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43581,
+        "pct": 4.56
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 40021,
+        "pct": 4.19
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 136995,
+        "pct": 14.35
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18414,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 46309,
+        "pct": 4.85
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 13002,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16935,
+        "pct": 1.77
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 380428,
+        "pct": 39.85
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 226894,
+        "pct": 23.76
+      }
+    },
+    "delta": {
+      "new_valid_votes": 3347,
+      "new_actas": 21,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 87,
+        "marginal_pct": 2.5993
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 143,
+        "marginal_pct": 4.2725
+      },
+      "LIBRE": {
+        "new_votes": 91,
+        "marginal_pct": 2.7189
+      },
+      "MTS": {
+        "new_votes": 399,
+        "marginal_pct": 11.9211
+      },
+      "UNIDOS-": {
+        "new_votes": 80,
+        "marginal_pct": 2.3902
+      },
+      "NGP": {
+        "new_votes": 183,
+        "marginal_pct": 5.4676
+      },
+      "PDC": {
+        "new_votes": 35,
+        "marginal_pct": 1.0457
+      },
+      "FRI": {
+        "new_votes": 44,
+        "marginal_pct": 1.3146
+      },
+      "A-UPP": {
+        "new_votes": 1687,
+        "marginal_pct": 50.4033
+      },
+      "APB-SUMATE": {
+        "new_votes": 598,
+        "marginal_pct": 17.8667
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:46:42.374480",
+    "server_fecha": "26/03/2026 11:46:39",
+    "tabla_votos_válidos": {
+      "valor": 957108,
+      "porcentaje": 86.25
+    },
+    "tabla_votos_blancos": {
+      "valor": 68564,
+      "porcentaje": 6.18
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 84016,
+      "porcentaje": 7.57
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1109688,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1274803,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5621,
+      "porcentaje": 90.75
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5621,
+    "actas_habilitadas": 6194,
+    "pct_actas": 90.75,
+    "votos_validos": 957108,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 32270,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43683,
+        "pct": 4.56
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 40125,
+        "pct": 4.19
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 137284,
+        "pct": 14.34
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18453,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 46468,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 13037,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16991,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 381490,
+        "pct": 39.86
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 227307,
+        "pct": 23.75
+      }
+    },
+    "delta": {
+      "new_valid_votes": 2342,
+      "new_actas": 15,
+      "SOLUCIONES-CON-TODOS": {
+        "new_votes": 83,
+        "marginal_pct": 3.544
+      },
+      "PATRIA-UNIDOS": {
+        "new_votes": 102,
+        "marginal_pct": 4.3553
+      },
+      "LIBRE": {
+        "new_votes": 104,
+        "marginal_pct": 4.4406
+      },
+      "MTS": {
+        "new_votes": 289,
+        "marginal_pct": 12.3399
+      },
+      "UNIDOS-": {
+        "new_votes": 39,
+        "marginal_pct": 1.6652
+      },
+      "NGP": {
+        "new_votes": 159,
+        "marginal_pct": 6.7891
+      },
+      "PDC": {
+        "new_votes": 35,
+        "marginal_pct": 1.4944
+      },
+      "FRI": {
+        "new_votes": 56,
+        "marginal_pct": 2.3911
+      },
+      "A-UPP": {
+        "new_votes": 1062,
+        "marginal_pct": 45.3459
+      },
+      "APB-SUMATE": {
+        "new_votes": 413,
+        "marginal_pct": 17.6345
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:51:44.049319",
+    "server_fecha": "26/03/2026 11:51:39",
+    "tabla_votos_válidos": {
+      "valor": 957108,
+      "porcentaje": 86.25
+    },
+    "tabla_votos_blancos": {
+      "valor": 68564,
+      "porcentaje": 6.18
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 84016,
+      "porcentaje": 7.57
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1109688,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1274803,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5621,
+      "porcentaje": 90.75
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5621,
+    "actas_habilitadas": 6194,
+    "pct_actas": 90.75,
+    "votos_validos": 957108,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 32270,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43683,
+        "pct": 4.56
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 40125,
+        "pct": 4.19
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 137284,
+        "pct": 14.34
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18453,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 46468,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 13037,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16991,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 381490,
+        "pct": 39.86
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 227307,
+        "pct": 23.75
+      }
+    },
+    "delta": {
+      "new_valid_votes": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-26T11:56:44.931253",
+    "server_fecha": "26/03/2026 11:56:39",
+    "tabla_votos_válidos": {
+      "valor": 957108,
+      "porcentaje": 86.25
+    },
+    "tabla_votos_blancos": {
+      "valor": 68564,
+      "porcentaje": 6.18
+    },
+    "tabla_total_votos_nulos": {
+      "valor": 84016,
+      "porcentaje": 7.57
+    },
+    "tabla_votos_emitidos": {
+      "valor": 1109688,
+      "porcentaje": null
+    },
+    "tabla_ciudadanos_habilitados_por_actas_computadas": {
+      "valor": 1274803,
+      "porcentaje": null
+    },
+    "tabla_total_ciudadanos_habilitados": {
+      "valor": 1407069,
+      "porcentaje": null
+    },
+    "tabla_total_actas_computadas": {
+      "valor": 5621,
+      "porcentaje": 90.75
+    },
+    "tabla_total_actas_anuladas": {
+      "valor": 0,
+      "porcentaje": 0
+    },
+    "tabla_total_actas_habilitadas": {
+      "valor": 6194,
+      "porcentaje": 100
+    },
+    "actas_computadas": 5621,
+    "actas_habilitadas": 6194,
+    "pct_actas": 90.75,
+    "votos_validos": 957108,
+    "partidos": {
+      "SOLUCIONES-CON-TODOS": {
+        "nombre": "SOLUCIONES CON TODOS",
+        "votos": 32270,
+        "pct": 3.37
+      },
+      "PATRIA-UNIDOS": {
+        "nombre": "ALIANZA PATRIA UNIDOS",
+        "votos": 43683,
+        "pct": 4.56
+      },
+      "LIBRE": {
+        "nombre": "LIBERTAD Y REPÚBLICA",
+        "votos": 40125,
+        "pct": 4.19
+      },
+      "MTS": {
+        "nombre": "MOVIMIENTO TERCER SISTEMA",
+        "votos": 137284,
+        "pct": 14.34
+      },
+      "UNIDOS-": {
+        "nombre": "UNIDOS-",
+        "votos": 18453,
+        "pct": 1.93
+      },
+      "NGP": {
+        "nombre": "NUEVA GENERACIÓN PATRIÓTICA",
+        "votos": 46468,
+        "pct": 4.86
+      },
+      "PDC": {
+        "nombre": "PARTIDO DEMOCRATA CRISTIANO",
+        "votos": 13037,
+        "pct": 1.36
+      },
+      "FRI": {
+        "nombre": "FRENTE REVOLUCIONARIO DE IZQUIERDA",
+        "votos": 16991,
+        "pct": 1.78
+      },
+      "A-UPP": {
+        "nombre": "ALIANZA UNIDOS POR LOS PUEBLOS",
+        "votos": 381490,
+        "pct": 39.86
+      },
+      "APB-SUMATE": {
+        "nombre": "AUTONOMÍA PARA BOLIVIA SÚMATE",
+        "votos": 227307,
+        "pct": 23.75
+      }
+    },
+    "delta": {
+      "new_valid_votes": 0
+    }
   }
 ]
